@@ -16,10 +16,8 @@ The code begins by resizing the images to size that fit the model(GoogleNet) the
 
 #### install this libraries:
 - numpy
-- keras
-- opencv
-- glob
-- tensorflow
+- OpenCV
+
 
 #### Download any image you want to classify and put it in Photos directory and change this line according to the name of your image then run the code.
 
